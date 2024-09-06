@@ -9,7 +9,7 @@ WHAT NEEDS TO BE DONE:
   2)Figma layouts for phone
   
   Basic outlines of
-    1) home.html
+    1) home.html /n
     2) about.html
     3) blognews.html
     4) contact.html
