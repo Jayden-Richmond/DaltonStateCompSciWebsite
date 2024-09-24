@@ -11,3 +11,16 @@ nav {
     display: flex;
     gap: 15px;
 }
+
+#home-button {
+    position: relative;
+}
+
+#home-button img {
+    display: inline-block;
+    float: left;
+} 
+#home-button h1 {
+    display: inline-block;
+    float: left;
+} 
