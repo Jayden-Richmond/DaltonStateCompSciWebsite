@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+}
+
+header {
+    background: #DEF1FC;
+    display: flex;
+}
+
+nav {
+    display: flex;
+    gap: 15px;
+}
